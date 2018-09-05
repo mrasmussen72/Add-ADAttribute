@@ -1,0 +1,7 @@
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\bin\Debug\SetADComputerProperty.exe.config
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\bin\Debug\SetADComputerProperty.exe
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\bin\Debug\SetADComputerProperty.pdb
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\obj\Debug\SetADComputerProperty.csprojResolveAssemblyReference.cache
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\obj\Debug\SetADComputerProperty.csproj.CoreCompileInputs.cache
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\obj\Debug\SetADComputerProperty.exe
+C:\Users\administrator.MRRLABS\source\repos\SetADComputerProperty\SetADComputerProperty\obj\Debug\SetADComputerProperty.pdb
